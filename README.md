@@ -1,6 +1,6 @@
 # Naqinezhad, Morton and Edwards (2024).
 
-Scripts and data for Naqinezhad, Morton and Edwards (2024 in press) "Increasing timber and declining live plant diversity and volumes in global trade from 2000 to 2020" Communications Earth and Environment, DOI: (To be added).
+Scripts and data for Naqinezhad, Morton and Edwards (2024 in press) **"Increasing timber and declining live plant diversity and volumes in global trade from 2000 to 2020"** *Communications Earth and Environment*, DOI: (To be added).
 
 *Note 1 - files/folders ending with E refer to scripts related to processing exporter reported data
 and files/folders without this refer to scripts processing the importer reported data.The approach
